@@ -7,8 +7,12 @@ Its just a basic calculator with 3 main components:
  - Clear Button
  - Screen
 
-Some of this components use props for some values.
+Some of this components use **props** for some values.
 
-Usin setState hook from react to change the value on screen when a button is pressed.
+Using **setState hook** from react to change the value on screen when a button is pressed.
 
-All operation are made with mathjs library with 'evaluate' reserved word.
+All operation are made with mathjs library with **'evaluate'** reserved word.
+
+This is the base calculator:
+
+![BaseModelCalc](/src/images/CalculatorBase.png)
